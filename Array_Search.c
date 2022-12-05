@@ -23,6 +23,9 @@ int main()
  if(flag==1)
  {
     printf("element found at position %d",pos);
-    else
-    prinft("element not found")
+ }
+ else
+ {
+ printf("element not found")
+ }
  }
